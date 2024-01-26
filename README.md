@@ -10,6 +10,8 @@ Inovativní mobilní aplikace, které zjednodušují život a poskytují uživat
 
 Kreativní obsah, který nejen oslovuje, ale také předává příběh. Texty, které vyprávějí o vašem projektu, jsou klíčovým prvkem pro budování silného propojení s vaší cílovou skupinou. Věřím, že každý projekt je příležitostí k vytvoření něčeho výjimečného. Prozkoumejte mé portfolio a dejte mi vědět, jak mohu přinést inovaci do vašeho digitálního světa!
 
+BIGGER (B = N)
+
 https://zacharias-portfolio-final.vercel.app/
 
 ![image](https://github.com/KazatelSifu/Zacharias_portfolio/assets/148329565/81540df6-7219-4d86-a7da-53672a28a58a)
